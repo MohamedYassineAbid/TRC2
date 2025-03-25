@@ -1,5 +1,5 @@
-streamlit==1.12.0
-geocoder==1.38.1
-numpy==1.21.0
-scikit-learn==0.24.2  # Assuming your model was built with scikit-learn
-    
+streamlit==1.16.0
+joblib==1.1.0
+numpy==1.23.5
+scikit-learn==1.0.2
+genai==0.1.0
