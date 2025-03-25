@@ -1,7 +1,7 @@
 import streamlit as st
 from login import login_page
 from dashboard import dashboard_page
-from monitoring import monitoring_page
+from monitoring import monitoring_page  # Import monitoring page
 
 # Main function to handle page navigation
 def main():
@@ -12,8 +12,9 @@ def main():
         login_page()
     elif st.session_state["page"] == "dashboard":
         dashboard_page()
-    elif st.session_state["page"] == "monitoring":
+    elif st.session_state["page"] == "monitoring":  # Add monitoring navigation
         monitoring_page()
+
 
 if __name__ == "__main__":
     main()

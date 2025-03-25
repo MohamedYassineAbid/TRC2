@@ -1,0 +1,8 @@
+Alert Report for Rice at Hour 2
+==================================================
+🔥 High Temp (35.1°C)
+
+Treatment Recommendations:
+- Ensure proper shade or cooling systems for the crop.
+==================================================
+End of Report

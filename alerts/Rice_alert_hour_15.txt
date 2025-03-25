@@ -1,0 +1,8 @@
+Alert Report for Rice at Hour 15
+==================================================
+💧 Low Humidity (56.6%)
+
+Treatment Recommendations:
+- Use irrigation to increase humidity levels.
+==================================================
+End of Report
